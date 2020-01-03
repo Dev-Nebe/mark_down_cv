@@ -56,7 +56,7 @@ Highly ambitious Junior software developer that loves to create applications and
 
 ## My Projects
 - <a href="https://kopp-app.netlify.com">Static Kopp App</a>
-- <a href="https://eazzicash.netlify.com">Eazzicash</a> Full stack with Vue and Node.js
+- <a href="https://eazzicash.netlify.com">Eazzicash</a>(*Full stack with Vue and Node.js*)
 - <a href="https://drexel-app.netlify.com">Drexel App</a>
 
 ## Certifications
