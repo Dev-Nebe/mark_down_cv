@@ -36,7 +36,7 @@ Highly ambitious Junior software developer that loves to create applications and
 - Involved (Backend) in developing a Mentorship Application for a client. 
 - Collaborated with my Team members and CTO to deliver results on time and in an efficient manner.  Participated in several Scrum sessions - following agile development best practices, to review project progress with management.
 
-### Freelance - Self Taught Developer s
+### Freelance - Self Taught Developer
 `June 2018 - present`
 - I have been teaching myself to code for over 18 months now. 
 - Received Scholarship from Andela in partnership with Google for a Frontend web development course which I successfully completed.
@@ -47,6 +47,12 @@ Highly ambitious Junior software developer that loves to create applications and
 `April, 2019 - July, 2019`
 - Handled and maintained client relations.
 - Advised Clients/ investors on optimal investment plans based on their investment goals and risk appetite.
+
+## Skills
+- Self-motivated, a Critical thinker and an Independent problem solver.
+- Proficiency in the MEVN stack (MongoDb, Express.js, Vue.js and Node.js).
+- Proficiency in HTML, CSS, Material Design, Bootstrap, Javascript
+- *Learning Dart and Flutter*
 
 ## My Projects
 - <a href="https://kopp-app.netlify.com">Static Kopp App</a>
@@ -63,78 +69,4 @@ Highly ambitious Junior software developer that loves to create applications and
 
 ## Additional information 
 - Take me in, and you would never regret you did. I am more than willing to give in my best to learn and excel in this program.
-
-
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
 
